@@ -12,8 +12,8 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/atr(6).pdf" style="text-decoration:none;">Deep Learning with Keras: Beginner's Guide To Deep Learning With Keras </a></b></li>  
                                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/atr(7).pdf" style="text-decoration:none;">Solid State Astrochemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/atr(7).pdf" style="text-decoration:none;">Keras to Kubernetes: The Journey of a Machine Learning Model to Production</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/atr(8).pdf" style="text-decoration:none;">Astrochemistry of Cosmic Phenomena: Proceedings of the 150th Symposium of the International Astronomical Union, Held at Campos Do Jordão, São Paulo, Brazil, August 5-9, 1991</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/atr(9).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x: Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras/a></b></li> 
 
 </ul>
