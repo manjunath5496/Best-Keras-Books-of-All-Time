@@ -13,6 +13,15 @@
                                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Keras-Books-of-All-Time/blob/master/ker(7).pdf" style="text-decoration:none;">Keras to Kubernetes: The Journey of a Machine Learning Model to Production</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Keras-Books-of-All-Time/blob/master/ker(8).pdf" style="text-decoration:none;">Reinforcement Learning: With Open AI, TensorFlow and Keras Using Python</a></b></li>
+
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Keras-Books-of-All-Time/blob/master/ker(9).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x: Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Keras-Books-of-All-Time/blob/master/ker(10).pdf" style="text-decoration:none;">Keras Succinctly</a></b></li>
+
+
+
+
 
 </ul>
